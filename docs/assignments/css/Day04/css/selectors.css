@@ -1,0 +1,25 @@
+h1{
+    color: grey;
+    background-color: lavenderblush;
+    font-size: 3em;
+
+
+
+
+div{
+    width: 200px;
+    height: 200px
+    border; 3px 
+    text-align: center;
+}
+
+
+width: 200px;
+height
+/* ID selectors */
+
+#home-title{
+    text-align: center;
+}
+
+/* classes are reusable selectors */
